@@ -1,6 +1,4 @@
-### This Is A Repo To Show How To Implement Data Structures (Stack, Queue and LinkedList With C Programming).
-
-#### To run the code inside each file:
+## This Is A Repo To Show How To Implement Data Structures (Stack, Queue, and LinkedList With C Programming).
 
 ```
 1. Clone the repo.
@@ -9,10 +7,17 @@
 4. write the command `make`.
 ```
 
+### Google Drive
+
+[Drive](https://drive.google.com/drive/folders/104SlwSas9BMfI3dtCM1VHTScI3kYGDRd?usp=sharing)
+
 ## Stack Implementation And Execution.
 
--Stack Depends On The Princple Last In First Out(LIFO)
--Main Functions Used In Stack.
+https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/da3b2109-a2c6-4525-aa83-ef0bbb667678
+
+#### Stack Depends On The Principle Last In First Out(LIFO)
+
+#### Main Functions Used In Stack.
 
 ```
 1. Push
@@ -23,8 +28,11 @@
 
 ## Queue Implementation And Execution.
 
--Queue Depends On The Princple First In First Out(FIFO)
--Main Functions Used In Queue.
+https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/6ca4e2f6-7ba9-41cd-b34b-172aa552c5df
+
+#### Queue Depends On The Princple First In First Out(FIFO)
+
+#### Main Functions Used In Queue.
 
 ```
 1. Enqueue
@@ -35,8 +43,17 @@
 
 ## LinkedList Implementation And Execution (DataBase Students).
 
--LinkedList Depends On The Princple Of Dynamic Allocation.
--Main Funcitons Used In LinkedList.
+https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/54f94781-1f6e-4e16-8d52-33ee411d8644
+
+https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/1af19748-5443-486e-9a2c-1722b222fcf5
+
+https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/8d62a8f1-3c69-460b-b633-bb53da64a05a
+
+https://github.com/Mo-Alsehli/Master_Embedded_Systems/assets/98949843/d10b9f71-ed17-46ae-a95a-90c4311459d6
+
+#### LinkedList Depends On The Principle Of Dynamic Allocation.
+
+#### Main Functions Used In LinkedList.
 
 ```
 1. Add Student
